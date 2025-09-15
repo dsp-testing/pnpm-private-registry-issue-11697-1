@@ -9,14 +9,14 @@ importers:
   .:
     dependencies:
       '@types/node':
-        specifier: 17.0.0
-        version: 17.0.0
+        specifier: ^17.0.18
+        version: 17.0.18
 
 packages:
 
-  '@types/node@17.0.0':
-    resolution: {integrity: sha512-eMhwJXc931Ihh4tkU+Y7GiLzT/y/DBNpNtr4yU9O2w3SYBsr9NaOPhQlLKRmoWtI54uNwuo0IOUFQjVOTZYRvw==}
+  '@types/node@17.0.18':
+    resolution: {integrity: sha512-eKj4f/BsN/qcculZiRSujogjvp5O/k4lOW5m35NopjZM/QwLOR075a8pJW5hD+Rtdm2DaCVPENS6KtSQnUD6BA==, tarball: https://npm.pkg.github.com/download/@types/node/17.0.18/3b4fed5cfb58010e3a2be4b6e74615e4847f1074}
 
 snapshots:
 
-  '@types/node@17.0.0': {}
+  '@types/node@17.0.18': {}
