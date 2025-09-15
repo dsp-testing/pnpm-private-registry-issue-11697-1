@@ -1,6 +1,6 @@
 {
     "packageManager": "pnpm@10.14.0",
     "dependencies": {
-        "@types/node": "^17.0.18"
+        "@types/node": "^17.0.0"
     }
 }
