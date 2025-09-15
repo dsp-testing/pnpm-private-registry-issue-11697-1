@@ -14,4 +14,3 @@ updates:
       - github-private
     schedule:
       interval: "daily"
-
